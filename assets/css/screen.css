@@ -2059,6 +2059,13 @@ body:not(.post-template) .post-title {
     }
 }
 
+.caption {
+    color: #999;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.6rem;
+}
+
 
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
