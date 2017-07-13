@@ -11,7 +11,7 @@ logo: 'assets/images/ghost.png'
 <br>
 세상에는 사랑스러운 커밋 메시지가 있다. 커밋 메시지만으로, 어떤 변경사항이 있었는지 쉽게 파악할 수 있는 것이 바로 그것이다.
 
-![bad-commit]({{ site.url }}/assets/images/bad-commit.png)
+![bad-commit]({{ site.url }}/assets/images/bad-commit.PNG)
 <p class="caption">
     오래전 작성한 완벽히 잘못된 커밋이다.
 </p>
@@ -65,7 +65,7 @@ logo: 'assets/images/ghost.png'
 ### 제목을 50자로 제한 하는 이유 <a name="d1" />
 제목을 50자로 제한하는 이유는 제목은 **변경사항의 간단한 요약**을 보다 적극적으로 강제하는 방법으로 보인다.
 실제로 github에서 커밋 메시지를 작성할때, 제목의 글자가 50자 이상이면 경고메시지가 등장한다.
-![Github warn image]({{ site.url }}/assets/images/github-warn.png)
+![Github warn image]({{ site.url }}/assets/images/github-warn.PNG)
 <p class="caption">
     github에서 위와같은 경고메시지가 출력 된다.
 </p>
